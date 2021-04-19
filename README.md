@@ -1,2 +1,6 @@
 # stewart_interfaces
-Submodule of Stewart-Platform2021
+***********************************************************************************************
+
+Submodule of Stewart-Platform2021 repository (https://github.com/skotterud98/Stewart-Platform2021).
+
+***********************************************************************************************
